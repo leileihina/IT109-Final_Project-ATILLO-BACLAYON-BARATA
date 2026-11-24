@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Nuxt and Node.js
+node_modules/
+.nuxt/
+.output/
+dist/
+
+# Logs
+*.log
